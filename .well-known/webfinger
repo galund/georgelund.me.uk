@@ -1,6 +1,5 @@
 {
-    "subject": "acct:georgelund@mastodon.social",
-    "aliases": [
+    "subject": "acct:georgelund@urbanists.social",
         "https://mastodon.social/@georgelund",
         "https://mastodon.social/users/georgelund"
     ],
@@ -8,16 +7,16 @@
         {
             "rel": "http://webfinger.net/rel/profile-page",
             "type": "text/html",
-            "href": "https://mastodon.social/@georgelund"
+            "href": "https://urbanists.social/@georgelund"
         },
         {
             "rel": "self",
             "type": "application/activity+json",
-            "href": "https://mastodon.social/users/georgelund"
+            "href": "https://urbanists.social/users/georgelund"
         },
         {
             "rel": "http://ostatus.org/schema/1.0/subscribe",
-            "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+            "template": "https://urbanists.social/authorize_interaction?uri={uri}"
         }
     ]
 }
